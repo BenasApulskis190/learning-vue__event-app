@@ -3,6 +3,8 @@
 ## Project setup
 ```
 yarn install
+
+Project usees a moc db in root file db.json you need a plugon to serve the db like json-server 
 ```
 
 ### Compiles and hot-reloads for development
