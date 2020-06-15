@@ -44,6 +44,42 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 4112166,
+      "user": {
+        "id": "abc123",
+        "name": "Benas"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Benas"
+      },
+      "title": "test",
+      "description": "testas",
+      "location": "Location",
+      "date": "2020-06-04T20:18:00.000Z",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 8592959,
+      "user": {
+        "id": "abc123",
+        "name": "Benas"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Benas"
+      },
+      "title": "awd",
+      "description": "awdawdaw",
+      "location": "awdawd",
+      "date": "2020-06-11T20:23:00.000Z",
+      "time": "4:00",
+      "attendees": []
     }
   ]
 }
